@@ -1,6 +1,6 @@
 ## 联系我
 
-![wechat](https://github.com/FP-Browser/FP-Browser-Public/raw/master/docs/wechat.pic.jpg)
+![wechat](https://github.com/tyua07/FP-Browser-Detect/raw/master/docs/wechat.jpg)
 
 ## exe 下载
 
