@@ -5,7 +5,7 @@
 ## exe 下载
 
 我们提供了免费公开的 Windows 端指纹浏览器，注入参数有限，详细项目说明请参考 [FP-Browser-Public](https://github.com/tyua07/FP-Browser-Public) 。 下载地址：
-* [chrome.7z](https://n7uax7j29h.feishu.cn/file/boxcnVejHHDaYiZ93OG2W2nxl4d?from=from_copylink) 
+* [chrome.7z](https://n7uax7j29h.feishu.cn/file/boxcnuRRMtuvkr5oiD5N7sq6ojw?from=from_copylink) 
 
 ## 相关开源项目
 * [FP-Browser-Public 浏览器底层动态注入](https://github.com/tyua07/FP-Browser-Public) 
